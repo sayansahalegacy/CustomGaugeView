@@ -77,8 +77,8 @@ public class GaugeView extends View {
     public static final float TEXT_VALUE_SIZE = 0.3f;
     public static final float TEXT_UNIT_SIZE = 0.1f;
     private static final float[] DEFAULT_RANGE_VALUES = new float[]{0.0f, 100.0f, 200.0f, 500.0f, 1000.0f, 3000.0f, 5000.0f};
-    private static final int DEFAULT_COLOR = Color.parseColor("#3498db");
-    private static final int DEFAULT_FACE_COLOR = Color.parseColor("#1e2931");
+    private static final int DEFAULT_COLOR = Color.parseColor("#ffffff");
+    private static final int DEFAULT_FACE_COLOR = Color.parseColor("#000000");
 
 
     // *--------------------------------------------------------------------- *//
